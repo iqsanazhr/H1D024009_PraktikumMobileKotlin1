@@ -15,7 +15,12 @@
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
-            android:theme="@style/Theme.PraktikumKotlin_1" >
+            android:theme="@style/Theme.PraktikumKotlin_1" />
+        <activity
+            android:name=".HomeActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.PraktikumKotlin_1">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
