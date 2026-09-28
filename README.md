@@ -34,3 +34,15 @@ Pertemuan kedua menekankan pada implementasi fitur interaktif dalam aplikasi mob
 
 **Kesimpulan Praktikum:**  
 Pertemuan ketiga membuka wawasan tentang pengembangan aplikasi mobile yang lebih kompleks. Mahasiswa belajar bagaimana mengintegrasikan berbagai komponen dan fitur untuk menciptakan aplikasi yang lebih lengkap dan bermanfaat.
+
+---
+
+## 📝 Tugas Pertemuan 4
+**Tanggal**: Selasa, 22 September 2026
+
+| Detail Produk | Form Hubungi Kami |
+| :---: | :---: |
+| ![Detail Produk](docs/tugas4_detail_produk.png) | ![Hubungi Kami](docs/tugas4_hubungi_kami.png) |
+
+**Kesimpulan Praktikum:**  
+Pertemuan keempat memfokuskan pada implementasi sistem navigasi antar-layar menggunakan Jetpack Navigation Compose serta pembuatan formulir interaktif dan halaman detail produk. Mahasiswa belajar bagaimana mengelola perpindahan rute dan pengiriman argumen (seperti `productId`), menerapkan pola arsitektur *Stateful* dan *Stateless Composable*, melakukan validasi input formulir secara dinamis, mengintegrasikan fitur pemilihan gambar (*Photo Picker*), serta menyajikan umpan balik interaktif kepada pengguna melalui *Snackbar* dan *Toast*.
