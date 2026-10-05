@@ -46,3 +46,16 @@ Pertemuan ketiga membuka wawasan tentang pengembangan aplikasi mobile yang lebih
 
 **Kesimpulan Praktikum:**  
 Pertemuan keempat memfokuskan pada implementasi sistem navigasi antar-layar menggunakan Jetpack Navigation Compose serta pembuatan formulir interaktif dan halaman detail produk. Mahasiswa belajar bagaimana mengelola perpindahan rute dan pengiriman argumen (seperti `productId`), menerapkan pola arsitektur *Stateful* dan *Stateless Composable*, melakukan validasi input formulir secara dinamis, mengintegrasikan fitur pemilihan gambar (*Photo Picker*), serta menyajikan umpan balik interaktif kepada pengguna melalui *Snackbar* dan *Toast*.
+
+---
+
+## 📝 Tugas Pertemuan 5
+**Tanggal**: Selasa, 6 Oktober 2026
+
+| Daftar Produk UMKM (Online API & Coil) | Detail Produk |
+| :---: | :---: |
+| ![Daftar Produk](docs/tugas5_daftar_produk.png) | ![Detail Produk](docs/tugas5_detail_produk.png) |
+
+**Kesimpulan Praktikum:**  
+Pertemuan kelima memfokuskan pada integrasi jaringan (*networking*) dan penerapan pola arsitektur MVVM (*Model-View-ViewModel*) dalam aplikasi berbasis Jetpack Compose. Mahasiswa belajar bagaimana mengonsumsi RESTful API berformat JSON menggunakan pustaka Retrofit dan Gson Converter secara asinkron dengan Kotlin Coroutines, mengelola siklus hidup data dan status antarmuka (*UI State: Loading, Success, Error*) secara reaktif memanfaatkan `StateFlow` dan Sealed Interface, memuat aset gambar dari internet secara dinamis menggunakan pustaka Coil (`AsyncImage`), serta menyusun struktur kode yang terorganisasi dan mudah dipelihara dengan memisahkan lapisan tampilan (*View*), logika bisnis (*ViewModel*), dan sumber data (*Network/Model*).
+
